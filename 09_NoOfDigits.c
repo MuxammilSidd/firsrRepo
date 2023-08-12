@@ -8,7 +8,7 @@ int main()
     // 234 / 10 = 23
     // 23 / 10 = 2
     // 2 / 10 = 0
-
+    printf("Change222");
     while(num!=0)
     {
         num = num/10;
@@ -17,5 +17,6 @@ int main()
 
     printf("\n\tNumber: %d has %d Digits. ",num1, dig);
     printf("Change");
+    printf("Change22");
     return 0;
 }
